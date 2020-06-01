@@ -1,2 +1,1 @@
-# docker-postgresql
-docker-postgresql
+Docker con una PostgreSQL.
